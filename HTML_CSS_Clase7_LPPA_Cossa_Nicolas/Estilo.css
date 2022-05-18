@@ -1,0 +1,98 @@
+.facebook_social{
+    margin: 0 3px;
+    position: absolute;
+    top: 15px;
+    left: 200px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.twitter_social{
+    margin: 0 3px;
+    position: absolute;
+    top: 15px;
+    left: 240px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.instagram_social{
+    margin: 0 3px;
+    position: absolute;
+    top: 15px;
+    left: 280px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.tiktok_social{
+    margin: 0 3px;
+    position: absolute;
+    top: 15px;
+    left: 320px;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+.bocalogo{
+    margin: 0 3px;
+    height: 50px;
+    top: 70px;
+    left: 200px;
+    font-size: 100%;
+    background: transparent;
+}
+#palabraboca{
+    font-family: fantasy;
+    font-size: xxx-large;
+    color: azure;
+    margin-left: 5px;
+    margin-top: -15px;
+
+}
+.headbanner{
+    height: 65px;
+    padding: auto;
+    margin-left: 200px;
+    margin-right: 700px;
+    margin-top: -79px;
+    padding-top: 10px;
+    background-color: rgb(4, 0, 126);
+}
+
+#volante{
+    color: #fff!important;
+    background: #94bf00;
+    font-family: fantasy;
+    font-size: 20px;
+    padding: 10px 18px;
+    min-height: 19px;
+    width: max-content;
+}
+.tituloysub{
+    width: 100%;
+    padding: 10px;
+}
+#titulo{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 60px;
+    line-height: 72px;
+    font-weight: 400;
+    color: #333;
+    margin-top: 16px;
+    margin-bottom: 30px;
+
+}
+
+#subtitulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    color: #777;
+}
+
+figcaption{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px!important;
+    line-height: 20px!important;
+    color: #888;
+}
